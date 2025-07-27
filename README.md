@@ -9,7 +9,7 @@ This project uses supervised machine learning to predict the presence of heart d
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 We used the  [UCI Heart Disease Dataset](heart_statlog_cleveland_hungary_final.xls), which includes 14 clinical attributes like:
 
@@ -57,7 +57,7 @@ We used the  [UCI Heart Disease Dataset](heart_statlog_cleveland_hungary_final.x
 
 ---
 
-## 🖼️ Visualizations
+##  Visualizations
 
 ### Confusion Matrix  
 ![Confusion Matrix](images/confusion_matrix.png)
