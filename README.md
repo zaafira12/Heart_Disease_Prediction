@@ -1,6 +1,6 @@
 #  Heart Disease Prediction using Machine Learning
 
-> Developed by: **Sk. Zaafira Yumn**, **M.NARENDRA KUMAR**, **NSK. SAI KARTHIK**  
+> Developed by: **SK. ZAAFIRA YUMN**, **M.NARENDRA KUMAR**, **NSK. SAI KARTHIK**  
 > B.Tech – Computer Science (Artificial Intelligence & ML)  
 > [VIT - AP ], [4th Semester]
 
