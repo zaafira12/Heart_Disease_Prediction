@@ -60,13 +60,13 @@ We used the  [UCI Heart Disease Dataset](heart_statlog_cleveland_hungary_final.x
 ## 🖼️ Visualizations
 
 ### Confusion Matrix  
-![Confusion Matrix](./images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ### Accuracy Graph  
-![Accuracy Curve](./images/accuracygraph.png)
+![Accuracy Curve](images/accuracy_graph.png)
 
 ### Evaluation Matrix
-![Evaluation Matrix](./images/evaluationmatrix.png)
+![Evaluation Matrix](images/evaluation_matrix.png)
 
 ---
 
